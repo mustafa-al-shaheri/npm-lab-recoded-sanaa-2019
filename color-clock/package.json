@@ -1,0 +1,13 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "color-clock",
+  "main": "index.js",
+  "scripts": {
+    ""scripts": {
+  "test": "echo 'Hello World!'"
+}": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
